@@ -10,7 +10,7 @@ _le portfolio est une page web qui permet au étudiant de déposer leur CV, ou l
 * C#
 
 ### Dans quel cas utilise ton un portfolio ?
-![projet]("https://www.agera.asso.fr/app/uploads/2020/08/Projet.jpg")
+![projet](https://www.agera.asso.fr/app/uploads/2020/08/Projet.jpg)
  **`Dans la vie professionnel, nous utilisons notre portolio dans le but de montrer nos réalisations avec les projets étudiés tout au long de notre carrière comme par exemple :`**
  ```diff
  -  Pro Santé
